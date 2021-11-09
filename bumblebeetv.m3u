@@ -20,7 +20,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/
 #EXTINF:-1 tvg-id="Bumblebee_EPGTropics ( naturevision )" tvg-name="Tropics Live" tvg-logo="" group-title="Education",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGWaterfalls ( naturevision )" tvg-name="Waterfalls Live" tvg-logo="" group-title="Education",Waterfalls Live
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8# KIDS & FAMILY
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGcountryboykidvideos" tvg-name="Country Boy Kid Videos" tvg-logo="" group-title="Kids & Family",Country Boy Kid Videos
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGcutezone" tvg-name="Cute Zone" tvg-logo="" group-title="Kids & Family",Cute Zone
@@ -33,28 +33,28 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGtoyzone" tvg-name="Toy Zone" tvg-logo="" group-title="Kids & Family",Toy Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-#EXTINF:-1 tvg-id="cutezone" tvg-name="Fun Zone" tvg-logo="" group-title="Kids & Family",Fun Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8# LIFESTYLE
+#EXTINF:-1 tvg-id="" tvg-name="Fun Zone" tvg-logo="" group-title="Kids & Family",Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGlifebae" tvg-name="Lifebae" tvg-logo="" group-title="Lifestyle",Lifebae
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGfgteevfunnelvisiontv" tvg-name="FGTV & Funnelvision" tvg-logo="" group-title="Lifestyle",FGTV & Funnelvision
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crafty Panda" tvg-logo="" group-title="Lifestyle",Crafty Panda
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8# GAMING
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGthinknoodles" tvg-name="Thinknoodles" tvg-logo="" group-title="Gaming",Thinknoodles
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5afc810e932c833522744733/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lets Play Minecraft" tvg-logo="" group-title="Gaming",Let's Play Minecraft
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGsmosh" tvg-name="Smosh" tvg-logo="" group-title="Gaming",Smosh
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8# AUTOMOTIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGAutomoto ( unreelmotorsports )" tvg-name="Automoto" tvg-logo="" group-title="Automotive",Automoto
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGMotorcyclist ( unreelmotorsports )" tvg-name="Motorcyclist" tvg-logo="" group-title="Automotive",Motorcyclist
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8# SPECIAL INTEREST
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGrecoiltv" tvg-name="Recoil TV" tvg-logo="" group-title="Special Interest",Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xcorps" tvg-logo="" group-title="Special Interest",Xcorps
-https://d2h2fyavn9bij8.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-XCorps/a7998774-5101-43b9-8f81-24653cca1f8b/0.m3u8# MOVIES & TV
+https://d2h2fyavn9bij8.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-XCorps/a7998774-5101-43b9-8f81-24653cca1f8b/0.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGAction Movies ( popcornflixlive )" tvg-name="Popcorn Flix Action" tvg-logo="" group-title="Movies & TV",Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trinity & Beyond" tvg-logo="" group-title="Movies & TV",Trinity & Beyond
@@ -66,15 +66,13 @@ https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Bumblebee_EPGClassics - Line... ( indieflix ) " tvg-name="Classics Channel" tvg-logo="" group-title="Movies & TV",Classics Channel
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGmichaelhickoxfilms" tvg-name="Classics Channel 2" tvg-logo="" group-title="Movies & TV",Classics Channel 2
-https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8# SPORTS
+https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGepicmmm" tvg-name="Epic Misses & Mayhem" tvg-logo="" group-title="Sports",Epic Misses & Mayhem
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports News" tvg-logo="" group-title="Sports",Sports News
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8# NEWS & VIRAL
 #EXTINF:-1 tvg-id="Bumblebee_EPGcoronavirus" tvg-name="Coronavirusgov" tvg-logo="" group-title="News & Viral",Coronavirus.gov
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thinknoodles Test for Bitcentral" tvg-logo="" group-title="News & Viral",Thinknoodles Test for Bitcentral
-https://2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8# OTHER
+https://2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Judge Karens Court" tvg-logo="" group-title="Other",Judge Karen's Court
 https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Divorce Court" tvg-logo="" group-title="Other",Divorce Court
