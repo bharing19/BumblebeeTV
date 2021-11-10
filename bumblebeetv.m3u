@@ -69,9 +69,9 @@ https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/
 https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGepicmmm" tvg-name="Epic Makes Misses & Mayhem" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/epicmmm.png" group-title="Sports",Epic Makes Misses & Mayhem
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGcoronavirus" tvg-name="Coronavirusgov" tvg-logo="" group-title="News & Viral",Coronavirus.gov
+#EXTINF:-1 tvg-id="Bumblebee_EPGcoronavirus" tvg-name="Coronavirusgov" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/coronavirus.png" group-title="News & Viral",Coronavirus.gov
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thinknoodles Test for Bitcentral" tvg-logo="" group-title="News & Viral",Thinknoodles Test for Bitcentral
+#EXTINF:-1 tvg-id="" tvg-name="Thinknoodles Test for Bitcentral" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/thinknoodlestest.png" group-title="News & Viral",Thinknoodles Test for Bitcentral
 https://2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Judge Karens Court" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/judgekaren.jpg" group-title="Other",Judge Karen's Court
 https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
