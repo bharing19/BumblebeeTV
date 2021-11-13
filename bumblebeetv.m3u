@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Bumblebee_EPGnowyouknow" tvg-name="Now You Know" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/nowyouknow.png" group-title="Education",Now You Know
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGAnimals ( naturevision )" tvg-name="Animals Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/animals.png" group-title="Education",Animals Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGanimals" tvg-name="Animals Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/animals.png" group-title="Education",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGAurora Borealis ( naturevision )" tvg-name="Aurora Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/aurora.png" group-title="Education",Aurora Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGaurora" tvg-name="Aurora Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/aurora.png" group-title="Education",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGForests ( naturevision )" tvg-name="Forests Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/forests.png" group-title="Education",Forests Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGforests" tvg-name="Forests Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/forests.png" group-title="Education",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGLakes ( naturevision )" tvg-name="Lakes Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/lakes.png" group-title="Education",Lakes Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGlakes" tvg-name="Lakes Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/lakes.png" group-title="Education",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGMountains ( naturevision )" tvg-name="Mountains Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/mountains.png" group-title="Education",Mountains Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGmountains" tvg-name="Mountains Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/mountains.png" group-title="Education",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGRivers and Streams ( naturevision )" tvg-name="Rivers Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/rivers.png" group-title="Education",Rivers Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGrivers" tvg-name="Rivers Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/rivers.png" group-title="Education",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGSunsets ( naturevision )" tvg-name="Sunsets Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/sunsets.png" group-title="Education",Sunsets Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGsunsets" tvg-name="Sunsets Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/sunsets.png" group-title="Education",Sunsets Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGBeaches and Oceans ( naturevision )" tvg-name="Beaches Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/beaches.png" group-title="Education",Beaches Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGbeaches" tvg-name="Beaches Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/beaches.png" group-title="Education",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGTropics ( naturevision )" tvg-name="Tropics Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/tropics.png" group-title="Education",Tropics Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGtropics" tvg-name="Tropics Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/tropics.png" group-title="Education",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGWaterfalls ( naturevision )" tvg-name="Waterfalls Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/waterfalls.png" group-title="Education",Waterfalls Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGwaterfalls" tvg-name="Waterfalls Live" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/waterfalls.png" group-title="Education",Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGcountryboykidvideos" tvg-name="Country Boy Kid Videos" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/countryboykidvideos.png" group-title="Kids & Family",Country Boy Kid Videos
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
@@ -55,7 +55,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGxcorps" tvg-name="Xcorps" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/xcorps.png" group-title="Special Interest",Xcorps
 https://d2h2fyavn9bij8.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-XCorps/a7998774-5101-43b9-8f81-24653cca1f8b/0.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGAction Movies ( popcornflixlive )" tvg-name="Popcorn Flix Action" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/popcornflixaction.png" group-title="Movies & TV",Popcorn Flix Action
+#EXTINF:-1 tvg-id="DUMMYpopcornflixaction" tvg-name="Popcorn Flix Action" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/popcornflixaction.png" group-title="Movies & TV",Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGtrinitybeyond" tvg-name="Trinity & Beyond" tvg-logo="https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/trinitybeyond.png" group-title="Movies & TV",Trinity & Beyond
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
