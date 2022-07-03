@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Bumblebee_EPGnowyouknow" tvg-name="Now You Know" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/nowyouknow.png" group-title="Education",Now You Know
+#EXTINF:-1 tvg-id="Bumblebee_EPGnowyouknow" tvg-name="Now You Know" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/nowyouknow.png" group-title="Education",Now You Know
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGanimals" tvg-name="Animals Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/animals.png" group-title="Education",Animals Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGanimals" tvg-name="Animals Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/animals.png" group-title="Education",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGaurora" tvg-name="Aurora Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/aurora.png" group-title="Education",Aurora Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGaurora" tvg-name="Aurora Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/aurora.png" group-title="Education",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGforests" tvg-name="Forests Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/forests.png" group-title="Education",Forests Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGforests" tvg-name="Forests Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/forests.png" group-title="Education",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGlakes" tvg-name="Lakes Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/lakes.png" group-title="Education",Lakes Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGlakes" tvg-name="Lakes Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/lakes.png" group-title="Education",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGmountains" tvg-name="Mountains Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/mountains.png" group-title="Education",Mountains Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGmountains" tvg-name="Mountains Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/mountains.png" group-title="Education",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGrivers" tvg-name="Rivers Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/rivers.png" group-title="Education",Rivers Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGrivers" tvg-name="Rivers Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/rivers.png" group-title="Education",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGsunsets" tvg-name="Sunsets Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/sunsets.png" group-title="Education",Sunsets Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGsunsets" tvg-name="Sunsets Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/sunsets.png" group-title="Education",Sunsets Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGbeaches" tvg-name="Beaches Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/beaches.png" group-title="Education",Beaches Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGbeaches" tvg-name="Beaches Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/beaches.png" group-title="Education",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGtropics" tvg-name="Tropics Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/tropics.png" group-title="Education",Tropics Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGtropics" tvg-name="Tropics Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/tropics.png" group-title="Education",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGwaterfalls" tvg-name="Waterfalls Live" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/waterfalls.png" group-title="Education",Waterfalls Live
+#EXTINF:-1 tvg-id="Bumblebee_EPGwaterfalls" tvg-name="Waterfalls Live" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/waterfalls.png" group-title="Education",Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGcountryboykidvideos" tvg-name="Country Boy Kid Videos" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/countryboykidvideos.png" group-title="Kids & Family",Country Boy Kid Videos
+#EXTINF:-1 tvg-id="Bumblebee_EPGcountryboykidvideos" tvg-name="Country Boy Kid Videos" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/countryboykidvideos.png" group-title="Kids & Family",Country Boy Kid Videos
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGcutezone" tvg-name="Cute Zone" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/cutezone.png" group-title="Kids & Family",Cute Zone
+#EXTINF:-1 tvg-id="Bumblebee_EPGcutezone" tvg-name="Cute Zone" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/cutezone.png" group-title="Kids & Family",Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGgigglezone" tvg-name="Giggle Zone" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/gigglezone.png" group-title="Kids & Family",Giggle Zone
+#EXTINF:-1 tvg-id="Bumblebee_EPGgigglezone" tvg-name="Giggle Zone" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/gigglezone.png" group-title="Kids & Family",Giggle Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGlegotoons" tvg-name="Lego Toons" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/legotoons.png" group-title="Kids & Family",Lego Toons
+#EXTINF:-1 tvg-id="Bumblebee_EPGlegotoons" tvg-name="Lego Toons" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/legotoons.png" group-title="Kids & Family",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGmasterbuilders" tvg-name="Master Builders" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/masterbuilders.png" group-title="Kids & Family",Master Builders
+#EXTINF:-1 tvg-id="Bumblebee_EPGmasterbuilders" tvg-name="Master Builders" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/masterbuilders.png" group-title="Kids & Family",Master Builders
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGtoyzone" tvg-name="Toy Zone" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/toyzone.png" group-title="Kids & Family",Toy Zone
+#EXTINF:-1 tvg-id="Bumblebee_EPGtoyzone" tvg-name="Toy Zone" tvg-logo="https://raw.githubusercontent.com//bharing19/BumblebeeTV/raw/master/logos/toyzone.png" group-title="Kids & Family",Toy Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGfunzone" tvg-name="Fun Zone" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/funzone.png" group-title="Kids & Family",Fun Zone
+#EXTINF:-1 tvg-id="Bumblebee_EPGfunzone" tvg-name="Fun Zone" tvg-logo="https://raw.githubusercontent.com/bharing19/BumblebeeTV/raw/master/logos/funzone.png" group-title="Kids & Family",Fun Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-#EXTINF:-1 tvg-id="Bumblebee_EPGlifebae" tvg-name="Lifebae" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/lifebae.png" group-title="Lifestyle",Lifebae
+#EXTINF:-1 tvg-id="Bumblebee_EPGlifebae" tvg-name="Lifebae" tvg-logo="https://raw.githubusercontent.com/bharing19/BumblebeeTV/raw/master/logos/lifebae.png" group-title="Lifestyle",Lifebae
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
 #EXTINF:-1 tvg-id="Bumblebee_EPGfgteevfunnelvisiontv" tvg-name="FGTV & Funnelvision" tvg-logo="https://github.com/bharing19/BumblebeeTV/raw/master/logos/fgtvfunnelvision.png" group-title="Lifestyle",FGTV & Funnelvision
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
